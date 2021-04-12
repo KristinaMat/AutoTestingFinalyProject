@@ -1,0 +1,96 @@
+/HW2Page.cs
+/Page/BasicCheckboxDemoPage.cs
+/Page/AlertPage.cs
+/Page/BasicSeleniumDemoPage.cs
+/Page/DemoVTPage.cs
+/Page/BrowsersDemoPage.cs
+/Page/DropdownDemoNewPage.cs
+/Page/SebCalculatorPage.cs
+/Page/SenukaiPage.cs
+/Paskaita1.cs
+/Paskaita1WebDriver.cs
+/Test/AlertTest.cs
+/Test/BasicCheckboxDemoTest.cs
+/Test/SenukaiTest.cs
+/Test/DropdownDemoNewTest.cs
+/Test/BasicSeleniumDemoTest.cs
+/Test/BrowsersDemoTest.cs
+/Paskaita2Checkbox.cs
+/Paskaita2HW.cs
+/Paskaita2HWVera.cs
+/Paskaita2VT.cs
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_13_39_34.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_13_44_54.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_13_51_15.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_13_53_40.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_14_01_49.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_16_17_03.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_16_18_58.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_16_37_11.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_16_56_04.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_17_04_19.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_21_53_00.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_21_54_55.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_21_59_32.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_22_19_07.png
+/screenshots/Ar turėdama 100 eurų apdrausiu mašiną privalomuoju draudimu metams_22_37_34.png
+/screenshots/Ar turėdama 110 eurų apdrausiu mašiną privalomuoju draudimu metams_22_49_25.png
+/screenshots/BTABranchContact_01_57_44.png
+/screenshots/BTABranchContact_02_15_17.png
+/screenshots/BTABranchContact_03_21_37.png
+/screenshots/BTABranchContact_03_34_14.png
+/screenshots/CalculateTravelInsurance_00_03_07.png
+/screenshots/CalculateTravelInsurance_01_06_09.png
+/screenshots/CalculateTravelInsurance_01_22_53.png
+/screenshots/CalculateTravelInsurance_01_24_33.png
+/screenshots/CalculateTravelInsurance_03_45_24.png
+/screenshots/CalculateTravelInsurance_03_47_47.png
+/screenshots/CalculateTravelInsurance_03_49_20.png
+/screenshots/CalculateTravelInsurance_04_14_46.png
+/screenshots/CalculateTravelInsurance_04_24_04.png
+/screenshots/CalculateTravelInsurance_04_25_46.png
+/screenshots/CalculateTravelInsurance_05_52_55.png
+/screenshots/CalculateTravelInsurance_07_01_57.png
+/screenshots/CalculateTravelInsurance_14_27_46.png
+/screenshots/CalculateTravelInsurance_14_31_32.png
+/screenshots/CalculateTravelInsurance_14_34_16.png
+/screenshots/CalculateTravelInsurance_14_36_50.png
+/screenshots/CalculateTravelInsurance_14_43_57.png
+/screenshots/CalculateTravelInsurance_15_07_18.png
+/screenshots/CalculateTravelInsurance_15_16_59.png
+/screenshots/CalculateTravelInsurance_15_19_23.png
+/screenshots/CalculateTravelInsurance_15_21_08.png
+/screenshots/CalculateTravelInsurance_15_41_26.png
+/screenshots/CalculateTravelInsurance_16_16_37.png
+/screenshots/CalculateTravelInsurance_16_17_54.png
+/screenshots/CalculateTravelInsurance_16_56_47.png
+/screenshots/CalculateTravelInsurance_17_00_09.png
+/screenshots/CalculateTravelInsurance_17_04_02.png
+/screenshots/CalculateTravelInsurance_17_05_55.png
+/screenshots/CalculateTravelInsurance_17_11_02.png
+/screenshots/CalculateTravelInsurance_17_14_50.png
+/screenshots/CalculateTravelInsurance_17_36_09.png
+/screenshots/CalculateTravelInsurance_17_37_18.png
+/screenshots/CalculateTravelInsurance_17_40_25.png
+/screenshots/CalculateTravelInsurance_17_41_59.png
+/screenshots/CalculateTravelInsurance_17_46_38.png
+/screenshots/CalculateTravelInsurance_17_54_10.png
+/screenshots/CalculateTravelInsurance_18_01_36.png
+/screenshots/CalculateTravelInsurance_18_13_32.png
+/screenshots/CalculateTravelInsurance_21_47_22.png
+/screenshots/CalculateTravelInsurance_23_25_54.png
+/screenshots/CalculateTravelInsurance_23_40_20.png
+/screenshots/Mano automobilio privalomo draudimo kaina jeigu būsiu pavežėja = 320.91_04_48_24.png
+/screenshots/Mano automobilio privalomuojo draudimo metams kaina = 106.96 Eurai_22_56_18.png
+/screenshots/Mano automobilio privalomuojo draudimo metams kaina = 106.96 Eurai_23_00_36.png
+/screenshots/Mano automobilio privalomuojo draudimo metams kaina = 106.96 Eurai_23_06_17.png
+/screenshots/Pasirenkame 2 reiksmes ir patikriname visus pasirinkimus_17_12_46.png
+/screenshots/Pasirenkame 2 reiksmes ir patikriname visus pasirinkimus_17_13_07.png
+/screenshots/Pasirenkame 2 reiksmes ir patikriname visus pasirinkimus_17_24_38.png
+/screenshots/Pasirenkame 3 reiksmes ir patikriname pirma pasirinkima_17_13_05.png
+/screenshots/TravelInsuranseDate_00_22_01.png
+/screenshots/TravelInsuranseDuration_00_26_20.png
+/screenshots/TravelInsuranseDuration_00_28_06.png
+/screenshots/TravelInsuranseDuration_00_40_22.png
+/Test/DemoVTTest.cs
+/Test/SebCalculatorTest.cs
